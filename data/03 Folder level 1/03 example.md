@@ -37,9 +37,3 @@
 ### Inline Code
 
 Use backticks for `inline code`.
-
-### Code Block
-
-```python
-def hello_world():
-    print("Hello, World!")
